@@ -1,7 +1,7 @@
 Hi 👋 My name is Jon
 ====================
 
-Web Developer & UI Designer
+Software Engineer & Weirdo Nerd Boy
 ---------------------------
 
 I'm a full-stack web developer with a background in telecommunications, sales, and customer experience. I love working in a collaborative environment, and a passion of mine is creatively bringing interactivity to end-users with an emphasis on cybersecurity.
