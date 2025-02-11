@@ -4,7 +4,7 @@ Hi 👋 My name is Jon
 Software Engineer & Weirdo Nerd Boy
 ---------------------------
 
-I'm a full-stack web developer with a background in telecommunications, sales, and customer experience. I love working in a collaborative environment, and a passion of mine is creatively bringing interactivity to end-users with an emphasis on cybersecurity.
+Basically I started as a web dev and now I am messing around with code outside my realm of knowledge, but I'm trying my best :) 
 
 * 🌍  I'm based in Florida, USA
 * 🖥️  See my portfolio at [My Website](http://jonguarante.com)
